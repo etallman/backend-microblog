@@ -11,6 +11,12 @@ The goal of this chapter is to:
 <ul>
 <li>Generate a more elaborate web page that has a complex structure and many dynamic components.</li>
 </ul>
+### Part 3: Web Forms
+<ul>
+<li>Uses forms to allow users to login and submit blog posts.</li>
+<li>Introduces FlaskWTF</li>
+</ul>
+
 
 
 
