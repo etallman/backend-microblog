@@ -17,6 +17,9 @@ The goal of this chapter is to:
 <li>Introduces FlaskWTF</li>
 </ul>
 
+### Part 4: Database
+
+### Part 5: User Logins
 
 
 
