@@ -7,6 +7,11 @@ The goal of this chapter is to:
 <li>Learn how to set up a Flask project.</li>
 <li>Run a simple Flask web application.</li>
 </ul>
+### Part 2: Templates
+<ul>
+<li>Generate a more elaborate web page that has a complex structure and many dynamic components.</li>
+</ul>
+
 
 
 ##Getting Started
