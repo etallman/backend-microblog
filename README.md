@@ -18,9 +18,9 @@ The goal of this chapter is to:
 </ul>
 
 ### Part 4: Database
-
-### Part 5: User Logins
-
+<ul></ul>
+<li>Generates more elaborate web pages that have complex structure sand many dynamic components.</li>
+</ul>
 
 
 ##Getting Started
@@ -102,6 +102,14 @@ Open the site by entering the following URL in your web browser's address bar:
 
 [FlaskWTF](https://flask-wtf.readthedocs.io/en/stable/)--Integrates Flask and WTForms.
 </li>
+
+<li>
+
+[FlaskSQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/) -- an extension for Flask that adds support for SQLAlchemy to your application. It aims to simplify using SQLAlchemy with Flask by providing useful defaults and extra helpers that make it easier to accomplish common tasks.
+</li>
+<li>
+
+[Alembic](https://bitbucket.org/zzzeek/alembic/src/master/)--a database migrations tool for SQLAlchemy</li>
 </ul>
 
 ## Authors
